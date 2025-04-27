@@ -130,7 +130,7 @@ streamlit run app.py
 
 - **Reranking Built-in Pool**  
   ```bash
-  python src/evaluate_rerank.py
+  python src/evaluate.py
   ```  
   Measures P@10 & MRR@10 over the MS MARCO validation candidate list
 
