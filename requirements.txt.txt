@@ -1,0 +1,12 @@
+genism
+transformers
+torch
+torchvision
+torchaudio
+faiss 
+scikit-learn
+numpy
+pandas
+datasets
+tqdm
+streamlit
